@@ -1,1 +1,1 @@
-# calculator
+CALCULATOR is the final project of the TOP fundamentals which will use all the html, css, and javascript skills ive learned so far.
