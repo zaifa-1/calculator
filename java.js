@@ -17,6 +17,7 @@ function click(){
     if(this.innerText === '.' && result.innerText.includes('.')) return;
     if(result.innerText.length<=20){
     if(operation == undefined){
+        live.innerText= '';
         result.innerText += this.innerText;
         prevValue =result.innerText;
     }
